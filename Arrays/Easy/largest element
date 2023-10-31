@@ -1,1 +1,26 @@
+Question--Find largest element in array
+
+Brute force approach-->
+    -Sort the given array in ascending order
+        using quick sort or merge sort
+        TC-O(N log N)
+
+    -Print the last element of array
+        Ex: arr[n-1],where n=size of array
+
+    -Code:
+
+
+
+
+
+
+          int main(){
+                int arr[]={1,2,6,8,3};
+                int n=5;
+                
+
+
+
+
 
